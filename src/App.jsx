@@ -19,7 +19,6 @@ function App() {
       <h1>SureshKumar v</h1>
       <h3>73152318028</h3>
       <p>computerscinece and design </p>
-      <img
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
