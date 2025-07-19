@@ -17,8 +17,8 @@ function App() {
         </a>
       </div>
       <h1>SureshKumar v 
-      73152318028 
-      CSD </h1>
+      -73152318028 
+       </h1>
       
       <p>computerscinece and design </p>
       <div className="card">
